@@ -11,3 +11,6 @@
 8.1- git merge branch (Fuciona la rama con la principal)
 8.2- git branch -d (Eliminar la rama)
 9- git checkout master(te regresa a la rama master)
+
+
+10- git log stat (muestra los cambios especificos en el ultimo commit)
