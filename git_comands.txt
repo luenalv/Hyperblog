@@ -8,4 +8,6 @@
 7- git commit --amend(cambia el ultimo comentario del commit)
 8- git checkout -b rama-heroes(pasa del lado master a una rama)
 8.1- git branch (muestra las ramas creadas)
+8.1- git merge branch (Fuciona la rama con la principal)
+8.2- git branch -d (Eliminar la rama)
 9- git checkout master(te regresa a la rama master)
