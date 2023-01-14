@@ -3,7 +3,7 @@
 3- git reset .(revierte lo del add . baja los archivos del stage)
 4- git commit (Toma la captura de los datos en el stage)
 4.1 git commit -m (Realiza la captura con un mensaje para orientarte en lo que haz hecho)
-5- git checkout -- .
+5- git checkout -- . (Regresas al ultimo commit, o captura)
 6- git log 
 7- git commit --amend
 8- git checkout -b rama-heroes
