@@ -1,0 +1,8 @@
+1- git init 
+2- git add . (toma archivos para prepararlos para la captura en el commit)
+3- git reset .(revierte lo del add . baja los archivos del stage)
+4- git commit (Toma la captura de los datos en el stage)
+5- git checkout -- .
+6- git log 
+7- git commit --amend
+8- git checkout -b rama-heroes
