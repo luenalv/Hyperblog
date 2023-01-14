@@ -4,6 +4,6 @@
 4- git commit (Toma la captura de los datos en el stage)
 4.1 git commit -m (Realiza la captura con un mensaje para orientarte en lo que haz hecho)
 5- git checkout -- . (Regresas al ultimo commit, o captura)
-6- git log 
-7- git commit --amend
-8- git checkout -b rama-heroes
+6- git log (muestra los commit realizados)
+7- git commit --amend(cambia el ultimo comentario del commit)
+8- git checkout -b rama-heroes(pasa del lado master a una rama)
